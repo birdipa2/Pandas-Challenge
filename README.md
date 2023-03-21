@@ -8,17 +8,26 @@
 
 •	students_complete.csv: Contains information on the students in the district, including their name, grade level, and test scores.
 
->The two datasets were merged on the school ID to create a single DataFrame that could be used to calculate the key metrics for the district.
+>The two datasets were merged on the School Name to create a single DataFrame that could be used to calculate the key metrics for the district.
 
 #Key Metrics
 >The analysis of key metrics has been summarized by:
+
 •District Summary
+
 •School Summary
+
 •Highest-Performing Schools (by % Overall Passing)
+
 •Lowest-Performing Schools (by % Overall Passing)
+
 •Math Scores by Grade
+
 •Reading Scores by Grade
+
 •Scores by School Spending
+
 •Scores by School Size
+
 •Scores by School Type
 
