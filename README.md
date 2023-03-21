@@ -19,6 +19,22 @@ Contents:
 >
 >The two datasets were merged on the School Name to create a single DataFrame that could be used to calculate the key metrics for the district.
 
+Running the script
+>
+>To run the notebook, follow these steps:
+>
+>Install Jupyter Notebook on your computer if you have not already done so. You can install it via Anaconda.
+>
+>Download the folder 'Pandas-Challenge' and open the notebook file in Jupyter Notebook.
+>
+>Make sure you have all the required libraries installed. If not, you can install them using conda.
+>
+>Run each cell in the notebook by pressing Shift + Enter or by clicking the Run button.
+>
+>Make sure to read the markdown cells carefully as they provide important information about the analysis and the code.
+>
+>You can also restart and run the whole notebook again automatically by clicking 'Kernel > Restart & Run All' from the Jupyter menu.
+
 Key Metrics
 >The analysis of key metrics has been summarized by:
 
