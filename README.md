@@ -3,7 +3,9 @@
 
 #Data Sources
 >The data for this report was provided in two CSV files:
+
 •	schools_complete.csv: Contains information on the schools in the district, including the school name, type, and budget.
+
 •	students_complete.csv: Contains information on the students in the district, including their name, grade level, and test scores.
 
 >The two datasets were merged on the school ID to create a single DataFrame that could be used to calculate the key metrics for the district.
