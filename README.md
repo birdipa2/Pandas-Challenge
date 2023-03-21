@@ -4,10 +4,10 @@ Module 4 Assignment for DataBootCamp
 
 Contents: 
 
->1 Folder 'PyCitySchools', 1 Sub-Folder 'Resources', 1 Jupyter Notebook 'PyCitySchools.ipynb', 1 ReadMe File, 2 CSV files as Data Sources
+>1 Folder 'PyCitySchools', 1 Sub-Folder 'Resources', 1 Jupyter Notebook 'PyCitySchools.ipynb', 1 ReadMe File, 2 CSV files as Data Sources, 1 doc file as final summary report.
 >This repository includes a main folder ['PyCitySchools'] and a [README.md] file, containing information about the project and the files in the repository.
 >
->The main folder has a sub folder ['Resources'], containing the data sources used for this project and a Jupyter Notebook ['PyCitySchools.ipynb'], containing the code used to generate the summary DataFrames and observations/trends.
+>The main folder has a sub folder ['Resources'], containing the data sources used for this project, a Jupyter Notebook ['PyCitySchools.ipynb'], containing the code used to generate the summary DataFrames and observations/trends and a Microsoft Word document [Module 4 Challenge Summary Report.docx] containing the summary analysis and conclusions.
 >
 >Data Sources: 
 >
